@@ -1,0 +1,162 @@
+[
+  {
+    "plaka": "34 GBL 901",
+    "marka": "Skoda ",
+    "model": "Superb",
+    "ucret": 3000.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "34 KLM 396",
+    "marka": "Ford",
+    "model": "Focus",
+    "ucret": 1750.0,
+    "durum": "kirada",
+    "kiralayan": "Hakan Keskin",
+    "baslangic_tarihi": "22-12-2025",
+    "bitis_tarihi": "28-12-2025"
+  },
+  {
+    "plaka": "53 RZ 4526",
+    "marka": "Honda",
+    "model": "Civic",
+    "ucret": 1600.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "09 TK 5891",
+    "marka": "Renault",
+    "model": "Megane",
+    "ucret": 1500.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "35 VBN 512",
+    "marka": "Fiat",
+    "model": "Egea",
+    "ucret": 1200.0,
+    "durum": "kirada",
+    "kiralayan": "Mert Çelik",
+    "baslangic_tarihi": "25-12-2025",
+    "bitis_tarihi": "27-12-2025"
+  },
+  {
+    "plaka": "06 TY 7960",
+    "marka": "Toyota ",
+    "model": "Corolla",
+    "ucret": 1850.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "58 UGH 794",
+    "marka": "Seat",
+    "model": "Leon",
+    "ucret": 1800.0,
+    "durum": "kirada",
+    "kiralayan": "Betül Kaya",
+    "baslangic_tarihi": "01-01-2026",
+    "bitis_tarihi": "10-01-2026"
+  },
+  {
+    "plaka": "35 UV 5534",
+    "marka": "Renault",
+    "model": "Talisman",
+    "ucret": 1400.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "61 ST 3249",
+    "marka": "Fiat",
+    "model": "Egea",
+    "ucret": 1200.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "34 LS 4899",
+    "marka": "Renault",
+    "model": "Megane",
+    "ucret": 1500.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "35 GFR 761",
+    "marka": "BMW",
+    "model": "320",
+    "ucret": 3500.0,
+    "durum": "kirada",
+    "kiralayan": "Eren Bozkurt",
+    "baslangic_tarihi": "29-12-2025",
+    "bitis_tarihi": "07-01-2026"
+  },
+  {
+    "plaka": "06 BUJ 324",
+    "marka": "Mercedes",
+    "model": "C180",
+    "ucret": 3200.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "34 LU 5210",
+    "marka": "BMW",
+    "model": "520",
+    "ucret": 4200.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "35 GT 7777",
+    "marka": "Renault",
+    "model": "Clio",
+    "ucret": 1200.0,
+    "durum": "kirada",
+    "kiralayan": "Ece Tokgöz",
+    "baslangic_tarihi": "30-12-2025",
+    "bitis_tarihi": "05-01-2026"
+  },
+  {
+    "plaka": "34 JD 5999",
+    "marka": "Mercedes",
+    "model": "A180",
+    "ucret": 2500.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  },
+  {
+    "plaka": "06 CSF 987 ",
+    "marka": "Hyundai",
+    "model": "İ20",
+    "ucret": 1650.0,
+    "durum": "müsait",
+    "kiralayan": "",
+    "baslangic_tarihi": "",
+    "bitis_tarihi": ""
+  }
+]
